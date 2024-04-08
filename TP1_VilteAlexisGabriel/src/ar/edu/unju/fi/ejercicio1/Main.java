@@ -3,7 +3,18 @@ package ar.edu.unju.fi.ejercicio1;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		 // Declarar e inicializar las variables
+        int A = 8;
+        int B = 5;
+        int C = 1;
+        int D = 20;
+        int E = 9;
+        String hola = "hola";
+     
+        double promedio = (A + B + C + D + E ) / 5.0;
+        
+        // Mostrar el resultado por consola
+        System.out.println("El promedio es: " + promedio);
 
 	}
 
