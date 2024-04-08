@@ -9,7 +9,6 @@ public class Main {
         int C = 1;
         int D = 20;
         int E = 9;
-        String hola = "hola";
      
         double promedio = (A + B + C + D + E ) / 5.0;
         
