@@ -1,6 +1,6 @@
 package ar.edu.unju.fi.ejercicio7.main;
 import java.util.Scanner;
-import ar.edu.unju.fi.ejercicio7.model.*;
+import ar.edu.unju.fi.ejercicio7.model.Empleado;
 public class Main {		
 		    public static void main(String[] args) {
 		        Scanner scanner = new Scanner(System.in);
