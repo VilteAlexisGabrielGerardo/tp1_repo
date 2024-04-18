@@ -5,7 +5,7 @@ public class Main {
 				int j;
 				int i;
 		       for(j = 40 ,  i = 2 ;j>0; j--, i++) {
-		    	   System.out.println(j*i);
+		    	   System.out.print(j*i+" ");
 		        }
 	}
 }
